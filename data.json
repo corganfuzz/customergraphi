@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Jon Papa",
+      "email": "jpap@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Steve Papa",
+      "email": "spap@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Karl Papa",
+      "email": "kpap@gmail.com",
+      "age": 15
+    },
+    {
+      "id": "5",
+      "name": "Fred Papa",
+      "email": "dpap@gmail.com",
+      "age": 55
+    },
+    {
+      "name": "Barry White",
+      "email": "barry@gmail.com",
+      "age": 34,
+      "id": "MOYhdmB"
+    }
+  ]
+}
